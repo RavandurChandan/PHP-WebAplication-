@@ -1,0 +1,101 @@
+ 
+
+1. What is the primary goal of CMMI for Services (CMMI-SVC)?  
+A) To improve product development processes  
+B) To establish best practices for service delivery and management  
+C) To reduce the cost of hardware in IT services  
+D) To replace ITIL as a service management framework  
+
+Answer: B) To establish best practices for service delivery and management  
+
+---
+
+2. Which of the following best defines a "Service" in CMMI-SVC?  
+A) A tangible product delivered to a customer  
+B) A system that provides software solutions  
+C) A set of intangible actions or functions provided to a customer  
+D) A tool used for automating service management  
+
+Answer: C) A set of intangible actions or functions provided to a customer  
+
+---
+
+3. A "Service System" in CMMI-SVC refers to:  
+A) The infrastructure, people, processes, and technology needed to deliver a service  
+B) A software application for managing services  
+C) A framework used only for IT service management  
+D) A network of hardware devices that automate service delivery  
+
+Answer: A) The infrastructure, people, processes, and technology needed to deliver a service  
+
+---
+
+4. What is a "Service Agreement" in the context of CMMI-SVC?  
+A) A legally binding contract between a company and its employees  
+B) A commitment defining the expected service delivery and support levels  
+C) A document used to monitor project deadlines  
+D) A technical document specifying hardware configurations  
+
+Answer: B) A commitment defining the expected service delivery and support levels  
+
+---
+
+5. How does a "Service Request" differ from a "Service Incident"?  
+A) A service request is a standard request, whereas an incident is an unplanned disruption  
+B) A service request deals only with software, while an incident deals with hardware  
+C) Service requests are urgent, while incidents can be scheduled  
+D) Incidents are proactive requests, while service requests are reactive  
+
+Answer: A) A service request is a standard request, whereas an incident is an unplanned disruption  
+
+---
+
+6. In CMMI-SVC, which term best describes a temporary team formed to achieve a specific service-related goal?  
+A) Service Group  
+B) Work Group  
+C) Incident Response Team  
+D) Service Delivery Unit  
+
+Answer: B) Work Group  
+
+---
+
+7. Which of the following is a key relationship between process areas in CMMI-SVC?  
+A) Service Incident Resolution depends on effective Service Agreement Management  
+B) Service Request Management is unrelated to Incident Management  
+C) Work Groups function independently of Service Systems  
+D) CMMI-SVC does not establish relationships between process areas  
+
+Answer: A) Service Incident Resolution depends on effective Service Agreement Management  
+
+---
+
+8. What is the main purpose of "Project, Work Group, and Work" in CMMI-SVC?  
+A) To track only software development activities  
+B) To establish a structured approach for managing work efforts and teams  
+C) To document individual employee performance  
+D) To define software lifecycle phases  
+
+Answer: B) To establish a structured approach for managing work efforts and teams  
+
+---
+
+9. How does CMMI-SVC support service improvement?  
+A) By eliminating service incidents completely  
+B) By providing a framework to measure, control, and optimize service processes  
+C) By focusing only on financial aspects of service delivery  
+D) By enforcing strict compliance with ITIL  
+
+Answer: B) By providing a framework to measure, control, and optimize service processes  
+
+---
+
+10. Why is understanding "Relationships Among Process Areas" important in CMMI-SVC?  
+A) To define how different processes interact and contribute to service excellence  
+B) To create more complex service processes  
+C) To separate service processes from software development  
+D) To ensure service incidents are always resolved within 24 hours  
+
+Answer: A) To define how different processes interact and contribute to service excellence  
+
+ 

@@ -1,0 +1,18 @@
+{
+  "jagtap": {
+    "friends": [
+      {
+        "name": "Vinay",
+        "age": 21
+      },
+      {
+        "name": "Ajnkya",
+        "age": 6
+      }
+    ],
+    "credentials": {
+      "username": "user123",
+      "password": "hashed_password_here"
+    }
+  }
+}
