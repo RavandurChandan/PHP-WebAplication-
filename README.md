@@ -30,13 +30,13 @@ The application uses a MySQL database with a single table named `todolist`. The 
 
 You can create the table using the following SQL command:
 
-```sql
+
 CREATE TABLE todolist (
     Columnid INT AUTO_INCREMENT PRIMARY KEY,
     Columnstatus TINYINT DEFAULT 0,
     Columntask VARCHAR(255) NOT NULL
 );
-```
+
 
 ## How It Works
 
